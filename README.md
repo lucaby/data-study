@@ -4,4 +4,6 @@ In this repo you will find my studies about a `wild dataset`. This kind of self-
 
 ## What to do with this dataset?
 
-The first problem with this dataset is it's format, which is not friendly for a `pandas` structure, for example. The labels also are not self-explanatory, so one of the tasks is to check the source about a more human text.
+The first problem with this dataset is the format, which is not friendly for a `pandas` structure, for example. The labels also are not self-explanatory.
+
+For starters, we need to check the dataset source for the description.
